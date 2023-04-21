@@ -1,0 +1,4 @@
+archivo_temporal.txt
+log/*.log
+images/*
+!images/logo.jpg
